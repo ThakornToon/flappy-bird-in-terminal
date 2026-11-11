@@ -1,0 +1,7 @@
+# Compiled executables
+/main
+/flappy-bird
+
+# macOS debug symbols and Finder metadata
+*.dSYM/
+.DS_Store
